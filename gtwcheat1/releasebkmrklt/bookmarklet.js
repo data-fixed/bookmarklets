@@ -2,3 +2,4 @@ javascript:(function()%7Bwindow.alert(%22dont%20run%20or%20use%20this%20bookmark
 // thanks for using!
 //read licence before using
 // and read rules before using
+// link to credit rules / rules;: https://github.com/data-fixed/bookmarklets/tree/main?tab=readme-ov-file#credit
